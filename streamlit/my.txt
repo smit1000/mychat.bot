@@ -1,0 +1,14 @@
+Python is a high-level, general-purpose programming language designed to be 
+easy to read and simple to write. First released by Guido van Rossum in 1991, 
+it mimics natural English by skipping complex symbols and brackets, relying instead 
+on clean spacing and indentation
+Because it is incredibly versatile, Python is used globally by software engineers, scientists, data analysts, and beginners alike
+
+BMW vehicle specifications vary widely by model, ranging from efficient compact SUVs
+ like the BMW X1 with 148 hp to high-performance sports models like the M8 producing
+  600 hp. Because BMW produces dozens of petrol, diesel, plug-in hybrid, and electric 
+  vehicles, specs depend entirely on the specific car line.
+  Popular BMW Models in IndiaBMW X1 (Compact SUV): 1995 cc engine, 148 hp, 
+  up to 20.37 km/l mileage.BMW X3 (Mid-size SUV): 1998 cc engine, 255 hp power, 
+  400 Nm torque.BMW X5 (Luxury SUV): 2993 cc engine, 282 hp power, 650 Nm torque.
+  BMW 3 Series (Sedan): 2998 cc performance engine, 368 hp power, 500 Nm torque.You can review individual model builders and precise technical sheets directly on the Official BMW India Models Porta
