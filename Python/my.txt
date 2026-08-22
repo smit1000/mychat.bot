@@ -1,0 +1,5 @@
+Python is a high-level, general-purpose programming language designed to be 
+easy to read and simple to write. First released by Guido van Rossum in 1991, 
+it mimics natural English by skipping complex symbols and brackets, relying instead 
+on clean spacing and indentation
+Because it is incredibly versatile, Python is used globally by software engineers, scientists, data analysts, and beginners alike

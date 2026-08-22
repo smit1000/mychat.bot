@@ -1,0 +1,60 @@
+Days 1 to 7: C++ from scratch
+
+Goal: become comfortable writing code on your own.
+
+Learn:
+
+input/output
+variables and data types
+operators
+if, else, switch
+loops
+functions
+arrays
+strings
+basic STL idea
+
+Practice:
+
+sum of digits
+reverse number
+palindrome number
+prime check
+factorial
+fibonacci
+greatest of 3 numbers
+pattern printing
+array sum, max, min
+string reverse, vowel count
+
+By day 7, you should be able to write small programs without help.
+
+Days 8 to 14: Problem-solving foundation
+
+Goal: improve logic.
+
+Learn:
+
+time complexity basics
+dry run of code
+nested loops
+frequency counting
+basic STL:
+vector
+pair
+set
+map
+
+Practice:
+
+count digits
+second largest
+remove duplicates
+linear search
+binary search
+frequency of elements
+character frequency in string
+sort array
+merge two arrays
+missing number
+move zeros to end

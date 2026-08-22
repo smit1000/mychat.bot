@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Array"
+		},
+		{
+			"path": "../Functions+moderate"
+		},
+		{
+			"path": "../Vector"
+		}
+	]
+}
